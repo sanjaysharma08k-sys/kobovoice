@@ -1,4 +1,0 @@
-streamlit
-TTS
-torch
-torchaudio
