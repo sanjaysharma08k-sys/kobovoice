@@ -1,4 +1,3 @@
 streamlit
-TTS
-torch
-torchaudio
+gradio_client
+
